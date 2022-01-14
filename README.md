@@ -1,5 +1,5 @@
-# MyFirstApp
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+# TaskTracker App
+This application is totally build using Angular2.This app helps to create a new task and also set a reminder for tasks.After completing we can simply delete the task.It is a Single Page Application.Various Components are build in this app and have a greate ui.It simply tracks the task.
 
 ## Install dependencies
 npm install
