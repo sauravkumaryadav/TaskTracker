@@ -1,5 +1,5 @@
 # TaskTracker App
-This application is totally build using Angular2.This app helps to create a new task and also set a reminder for tasks.After completing we can simply delete the task.It is a Single Page Application.Various Components are build in this app and have a greate ui.It simply tracks the task.
+This application is completely build using Angular2. This app helps to create a new task and also set a reminder for each tasks. After completing the respective tasks we can simply delete it. This Application follows the Single Page Application proecess. Various Components are build in this app and have a greate ui.It simply tracks the task.
 
 ## Install dependencies
 npm install
